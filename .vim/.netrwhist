@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/dbathurst/development/javascript/garagey'
+let g:netrw_dirhist_2='/Users/dbathurst/zeta/zeta-platform/zeta-web/src/main/frontend'
+let g:netrw_dirhist_3='/Users/dbathurst/zeta/Helios/src/main/webapp/WEB-INF/frontend'
+let g:netrw_dirhist_4='/Users/dbathurst/zeta/zeta-platform/zeta-web/src/main/frontend'
+let g:netrw_dirhist_5='/Users/dbathurst/development/javascript/memoreez'
+let g:netrw_dirhist_6='/Users/dbathurst/zeta/Helios/src/main/webapp/WEB-INF/frontend'
